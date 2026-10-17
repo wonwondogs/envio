@@ -1,0 +1,10 @@
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.epru text eol=lf
+*.svg text eol=lf
+*.png binary
+*.epro2 binary
+*.zip binary
+*.step text eol=lf
+*.pdf binary

@@ -1,0 +1,38 @@
+ENVIO — USB Environmental Sensor
+SPDX-FileCopyrightText: 2026 keisuke054
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International. The unmodified official text is provided in LICENSE.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This notice applies to original project-owned contributions in:
+  images/*
+  docs/*
+  firmware/README.md
+  README.md
+  LICENSING.md
+  THIRD_PARTY_NOTICES.md
+  COPYRIGHT
+  .gitattributes
+  .gitignore
+
+Paths ending in /* include their subdirectories. In viewing exports and
+rendered previews containing upstream material, this grant applies only to
+the project's original contributions and rights the owner can license.
+Existing third-party rights and notices are preserved; see
+THIRD_PARTY_NOTICES.md. Future firmware code is not covered by this notice
+unless explicitly added to its scope.
+
+For commercial licensing, contact the author:
+https://github.com/wonwondogs
+Commercial use requiring the owner's permission needs a separate written
+agreement. An inquiry or notification alone does not grant permission.
+
+When sharing licensed materials, retain required notices, credit the
+author, link to the license, and indicate modifications. Shared
+adaptations must comply with the ShareAlike terms of LICENSE.
+
+Materials are provided AS IS and AS AVAILABLE, WITHOUT WARRANTIES,
+subject to section 5 of LICENSE. Patent and trademark rights are not
+licensed; see LICENSING.md for scope and hardware-specific limitations.
